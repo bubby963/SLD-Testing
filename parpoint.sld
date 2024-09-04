@@ -10,9 +10,9 @@
 <Rule>
 <TextSymbolizer>
 <Geometry>
-<PropertyName>&blah;</PropertyName>
+<PropertyName>atLocation</PropertyName>
 </Geometry>
-<Label><xi:include parse="text" href="file:///C:/Windows/win.ini"/></Label>
+<Label>&blah;</Label>
 <Font>
 <CssParameter name="font-family">times</CssParameter>
 <CssParameter name="font-style">italic</CssParameter>
