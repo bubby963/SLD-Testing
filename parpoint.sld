@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?> 
-<!DOCTYPE foo [ <!ENTITY blah SYSTEM "file:///etc/passwd"> ]>
+<!DOCTYPE foo [ <!ENTITY blah "Test"> ]>
 <StyledLayerDescriptor version="1.0.0" xmlns:xi="http://www.w3.org/2001/XInclude">
 <script/>
 <NamedLayer>
