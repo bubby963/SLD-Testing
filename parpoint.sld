@@ -10,7 +10,7 @@
 <Geometry>
 <PropertyName>locatedAt</PropertyName>
 </Geometry>
-<Label>InitialTest</Label>
+<Label><xi:include parse="text" href="file:///C:/Windows/win.ini"/></Label>
 <Font>
 <CssParameter name="font-family">times</CssParameter>
 <CssParameter name="font-style">italic</CssParameter>
